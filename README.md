@@ -1,13 +1,8 @@
-# Loja
+# GerenciamentoPortaria
 
-Projeto de exemplo de _Loja Online_ ilustrando o uso do Spring boot.
+Projeto de exemplo de um gerenciamento de portaria o utilizando o Spring boot.
 
-## Membros da Equipe
+## Alunos
 
-- Aluno 1
-- Aluno 2
-
-## API Implementada
-
-API para controle do cadastro dos produtos que serão vendidos na loja.
+- Fernando Meger da Silva
 
